@@ -6,7 +6,7 @@ Servo object for use with mraa on Intel IoT devices.
 ## Example
 
 ```javascript
-var Servo = require('servo');
+var Servo = require('servo.js');
 
 var myServo = new Servo(3); // pin
 myServo.write(90); //degrees
