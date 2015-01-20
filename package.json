@@ -1,6 +1,6 @@
 {
   "name": "servo.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Servo object for use with mraa on Intel IoT devices.",
   "main": "servo.js",
   "scripts": {
@@ -8,6 +8,5 @@
   },
   "author": "Shrugs",
   "license": "ISC",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
