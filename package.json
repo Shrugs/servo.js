@@ -1,0 +1,13 @@
+{
+  "name": "servo.js",
+  "version": "1.0.0",
+  "description": "Servo object for use with mraa on Intel IoT devices.",
+  "main": "servo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shrugs",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
